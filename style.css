@@ -49,7 +49,7 @@ padding: 100px;
 }
 
 footer{
-  opacity: 0.01;
+  color:transparent;
   text-align:center;
   height:60px;
   line-height:60px;
